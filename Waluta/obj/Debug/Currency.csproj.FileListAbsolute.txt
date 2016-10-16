@@ -1,0 +1,6 @@
+C:\Users\filipek\Documents\Visual Studio 2015\Projects\Waluta\Waluta\bin\Debug\Waluta.exe.config
+C:\Users\filipek\Documents\Visual Studio 2015\Projects\Waluta\Waluta\bin\Debug\Waluta.exe
+C:\Users\filipek\Documents\Visual Studio 2015\Projects\Waluta\Waluta\bin\Debug\Waluta.pdb
+C:\Users\filipek\Documents\Visual Studio 2015\Projects\Waluta\Waluta\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+C:\Users\filipek\Documents\Visual Studio 2015\Projects\Waluta\Waluta\obj\Debug\Waluta.exe
+C:\Users\filipek\Documents\Visual Studio 2015\Projects\Waluta\Waluta\obj\Debug\Waluta.pdb
